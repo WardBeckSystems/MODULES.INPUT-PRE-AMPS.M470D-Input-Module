@@ -1,5 +1,5 @@
 # 1977 - M470D - Input Module 5.jpg
-Wiki page: [M470D](../../../PAGES/M470D.md)
+Wiki page: [M470D](../../../../PAGES/M470D.md)
 
 
 - **Year:** 1977 (module estimate (family))
@@ -27,7 +27,7 @@ API
 
 ```json
 {
- "file": "Modules/INPUT-PRE-AMPS/M470D/1977 - M470D - Input Module 5.jpg",
+ "file": "Modules/INPUT-PRE-AMPS/M470D/PHOTOS/1977 - M470D - Input Module 5.jpg",
  "sha256": "bdccceabbf54b5f37845e3267c2f919930f2128fa6e556fd99919c76b522f5c2",
  "kind": "module",
  "models": [

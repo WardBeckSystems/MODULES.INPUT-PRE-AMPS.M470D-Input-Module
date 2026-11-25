@@ -1,5 +1,5 @@
 # 1977 - M470D - wbsps - module - m470d input module 001_small.jpg
-Wiki page: [M470D](../../../PAGES/M470D.md)
+Wiki page: [M470D](../../../../PAGES/M470D.md)
 
 
 - **Year:** 1977 (module estimate (family))
@@ -14,7 +14,7 @@ Wiki page: [M470D](../../../PAGES/M470D.md)
 
 ```json
 {
- "file": "Modules/INPUT-PRE-AMPS/M470D/1977 - M470D - wbsps - module - m470d input module 001_small.jpg",
+ "file": "Modules/INPUT-PRE-AMPS/M470D/PHOTOS/1977 - M470D - wbsps - module - m470d input module 001_small.jpg",
  "sha256": "bd2430bfab0cad4932c7241282196536f8db0682cdaa3c4400d44f6e4f0798fd",
  "kind": "module",
  "models": [
