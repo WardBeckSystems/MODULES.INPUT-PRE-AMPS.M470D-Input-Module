@@ -1,5 +1,5 @@
 # 1977 - M470D - Input Module 3_small.jpg
-Wiki page: [M470D](../../../../PAGES/M470D.md)
+Wiki page: [M470D](../)
 
 
 - **Year:** 1977 (module estimate (family))

@@ -1,6 +1,6 @@
 # M470D Input Module · Input Pre Amps
 
-Ward-Beck Systems M470D, 1977|10. Wiki page: [M470D on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M470D.html)
+Ward-Beck Systems M470D, 1977|10. Wiki page: [M470D on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.INPUT-PRE-AMPS.M470D-Input-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|
